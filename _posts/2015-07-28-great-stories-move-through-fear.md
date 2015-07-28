@@ -1,7 +1,7 @@
 ---
 isBasedOnUrl: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/37d9cdc0-e985-4eb1-8e0c-612c700c9265.jpg'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
 author: []
@@ -15,7 +15,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-dateModified: '2015-07-28T02:50:05.138Z'
+dateModified: '2015-07-28T02:55:19.418Z'
 sourcePath: _posts/2015-07-28-great-stories-move-through-fear.md
 published: true
 url: great-stories-move-through-fear/index.html
