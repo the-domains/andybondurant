@@ -3,14 +3,14 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andybondurant/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 02:50:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jul 2015 02:55:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andybondurant/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Great Stories move through Fear]]></title>
             <description><![CDATA[<article><h1>Great Stories move through Fear</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37d9cdc0-e985-4eb1-8e0c-612c700c9265.jpg"></article>]]></description>
-            <link>undefinedgreat-stories-move-through-fear/index.html</link>
+            <link>https://thegrid.ai/andybondurant/great-stories-move-through-fear/index.html</link>
             <guid isPermaLink="false">78a9e501-42e6-42be-926c-b931addc0793</guid>
             <pubDate>Tue, 28 Jul 2015 02:50:05 GMT</pubDate>
         </item>
